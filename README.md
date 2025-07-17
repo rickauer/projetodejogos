@@ -1,4 +1,4 @@
-# Camisas, Chapéus e muito mais ...
+# Aperiodik
 
 ## Introdução
 
@@ -6,4 +6,4 @@ Este é um jogo produzido para a disciplina Projeto de Jogos do PESC UFRJ (Progr
 
 ## Sobre o repositório
 
-O repositório contém o livro de regras, contendo a explicação completa do jogo, o rio deslizante e as peças, todas prontas para impressão. Nossa recomendação é imprimir as peças de "chapéu" com impressora 3d para para tornar o jogo mais imersivo, mas a impressão em papel é suficiente.
+O repositório contém o livro de regras, contendo a explicação completa do jogo, o rio deslizante e as peças, todas prontas para impressão. 
